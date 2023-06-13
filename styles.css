@@ -1,0 +1,15 @@
+/* ESTILOS NAV */
+* {
+    margin:0px;
+    padding:0px;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+}
+
+ul, ol {
+    list-style:none;
+}
+
